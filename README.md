@@ -1,8 +1,8 @@
 # JAM20SIDIS
 
-**Simultaneous Monte Carlo analysis of parton densities and fragmentation functions**
+## Simultaneous Monte Carlo analysis of parton densities and fragmentation functions**
 
-# Authors
+## Authors
 
 ## Abstract:
 
