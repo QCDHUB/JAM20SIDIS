@@ -1,5 +1,9 @@
 # JAM20SIDIS
 
+## Abstract:
+
+We perform a comprehensive new Monte Carlo analysis of high-energy lepton-lepton, lepton-hadron and hadron-hadron scattering data to simultaneously determine parton distribution functions (PDFs) in the proton and parton to hadron fragmentation functions (FFs). The analysis includes all available semi-inclusive deep-inelastic scattering and single-inclusive e+e− annihilation data for pions, kaons and unidentified charged hadrons, which allows the flavor dependence of the fragmentation functions to be constrained. Employing a new multi-step fitting strategy and more flexible parametrizations for both PDFs and FFs, we assess the impact of different data sets on sea quark densities, and confirm the previously observed suppression of the strange quark distribution. The new fit, which we refer to as "JAM20-SIDIS", will allow for improved studies of universality of parton correlation functions, including transverse momentum dependent (TMD) distributions, across a wide variety of process, and the matching of collinear to TMD factorization descriptions. 
+
 
 - SetDesc:         "JAM20-SIDIS NLO combined PDF/FF global analysis (hadron FF)"
 - Authors:         JAM Collaboration. E. Moffat, W. Melnitchouk, T. C. Rogers, N. Sato
