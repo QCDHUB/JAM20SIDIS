@@ -4,7 +4,7 @@ Authors:         JAM Collaboration. E. Moffat, W. Melnitchouk, T. C. Rogers, N. 
 Reference:       arXiv:2101.04664
 Format:          lhagrid1
 DataVersion:     1
-NumMembers:      215
+NumMembers:      196
 Particle:        h+
 Flavors:         [-5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 21]
 OrderQCD:        1
