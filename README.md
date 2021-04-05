@@ -34,7 +34,7 @@ This work was supported by the US Department of Energy contract DE-AC05-06OR2317
 - Reference:       arXiv:2101.04664
 - Format:          lhagrid1
 - DataVersion:     1
-- NumMembers:      215
+- NumMembers:      196
 - Particle:        h+
 - Flavors:         [-5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 21]
 - OrderQCD:        1
